@@ -2,7 +2,7 @@
 
 ### 📖 I am currently in the process of learning
 
-💻 Teacher Assistant at @4GeeksAcademy
+💻 Teacher Assistant at [@4GeeksAcademy](https://github.com/4GeeksAcademy)
 
 🎯 Focused on Backend development
 
