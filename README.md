@@ -31,4 +31,4 @@
 
 [![AbreuY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devAbreu&show_icons=true&theme=dracula)](https://github.com/devAbreu)
 
-![Profile views](https://gpvc.arturio.dev/devAbreu)
+
