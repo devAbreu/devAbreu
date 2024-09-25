@@ -28,7 +28,7 @@
 | [Community App Backend](https://github.com/Codepire/community-app-backend) | [Implement JWT Authentication and Return Token in Login Response](https://github.com/Codepire/community-app-backend/pull/4) |
 | :--------------------------:       | :-------------------------: |
 | [Playground](https://github.com/breatheco-de/playground) | [Enhancements to contact search and code cleanup](https://github.com/breatheco-de/playground/pull/10) |
-
+| [react-doc-viewer](https://github.com/Alcumus/react-doc-viewer) | [Fix PDF rendering issue with custom PDF worker](https://github.com/Alcumus/react-doc-viewer/issues/159#issuecomment-2322169735) |
 
 [![AbreuY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devAbreu&show_icons=true&theme=dracula)](https://github.com/devAbreu)
 
